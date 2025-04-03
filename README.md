@@ -59,7 +59,7 @@ To deploy this project on a live system:
 - **PyMySQL** - MySQL connector
  
 ## Authors
-- **Debopriya Datta* - Initial work
+- *Debopriya Datta* - Initial work
  
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
