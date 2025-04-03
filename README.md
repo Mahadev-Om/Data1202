@@ -37,7 +37,7 @@ Follow these steps to set up the project:
 ### End-to-End Tests
 These tests ensure data is properly loaded and analyzed:
 ```sql
-SELECT * FROM mytable.ap;
+SELECT * FROM adventureworksdw2020.mytable;
 ```
  
 ### Coding Style Tests
